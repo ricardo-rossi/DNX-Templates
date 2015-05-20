@@ -2,8 +2,8 @@
 
 ## Pre-Requisites
 
-* (DNX)[https://github.com/aspnet/home]
-* (Mono 4.*)[http://www.mono-project.com/download/]
+* DNX: [https://github.com/aspnet/home]
+* Mono 4.*: [http://www.mono-project.com/download/]
 
 ## Setup
 
