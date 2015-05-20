@@ -7,9 +7,9 @@
 
 ## Setup
 
-Add this to your .bash_profile to get around an issue:
+Add this to your .bash_profile to get around an issue:   
 
-`export MONO_MANAGED_WATCHER=disabled`
+`export MONO_MANAGED_WATCHER=disabled`   
 
 kqueue() FileSystemWatcher has reached the maximum nunmber of files to watch:   
 https://github.com/OmniSharp/generator-aspnet/issues/138
